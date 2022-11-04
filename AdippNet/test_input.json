@@ -1,0 +1,1981 @@
+[
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [
+      {
+        "DatabaseName": "Local GID: test1",
+        "Category": {
+          "Name": "Files of Interest",
+          "Identifier": 4
+        }
+      }
+    ],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\JXOY3MEC",
+        "DisplayFilename": "J0CAQJJ2RB39LCAIXR4QF.jpg",
+        "CreationTime": "2007-07-13T01:17:17+02:00",
+        "LastAccessTime": "2008-07-02T23:01:40+02:00",
+        "LastWriteTime": "2007-07-13T01:17:17+02:00"
+      }
+    ],
+    "FileSize": 2594,
+    "HasSound": false,
+    "Height": 99,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "FCD1D2B7691A5294D1FC2ECD39B58F53",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 10,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "JSIsNA9iYRsoHTkTKStdBA4OIgESIx8AShIoRB9VTlNaJkUzU2A5Shk3N1oFRQ+FQSxcMEFAbT4bXVwyE2MQpyWMNcoNUB2RRRxPNTg/TjUXwTOGL5s/Z5+Oej1RdGAfPBIgORBvHWgQvyODczhnMliwZpFAXFRfVxEVjAtrPboPZl+cTkdDzixGWqgoT1RT",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "E9E458067013336CFBFAD3FED5DDA9CA826054E6",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 99,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\c74cad5e-3b60-439f-8c07-b7eb416fffc1.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\bc34d4cb-e700-4b6b-b3bd-51efa8f8dfc3.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": "w0\n"
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": "so\n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [
+      {
+        "DatabaseName": "Local GID: test1",
+        "Category": {
+          "Name": "Files of Interest",
+          "Identifier": 4
+        }
+      }
+    ],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\JXOY3MEC",
+        "DisplayFilename": "nav_contact[1].gif",
+        "CreationTime": "2007-07-13T01:13:17+02:00",
+        "LastAccessTime": "2007-07-13T01:13:17+02:00",
+        "LastWriteTime": "2007-07-13T01:13:17+02:00"
+      }
+    ],
+    "FileSize": 3443,
+    "HasSound": false,
+    "Height": 79,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "6487434507BF98B477BCC06910085010",
+    "MimeType": "image/gif",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "72C774D84C47BF44233976AA97C75999268CC60A",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 88,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\dccb8fe7-098a-4e0f-bc47-8876612b019e.gif",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\467be230-b619-40fa-b1ee-2f81a08942a5.gif",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": "conmact\n\n"
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": "contac\n\n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [
+      {
+        "DatabaseName": "Local GID: test1",
+        "Category": {
+          "Name": "Files of Interest",
+          "Identifier": 4
+        }
+      },
+      {
+        "DatabaseName": "Local GID: test2",
+        "Category": {
+          "Name": "Files of Interest",
+          "Identifier": 4
+        }
+      }
+    ],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Low\\Content.IE5\\JXOY3MEC",
+        "DisplayFilename": "nav_subscribe[1].gif",
+        "CreationTime": "2007-07-13T01:13:17+02:00",
+        "LastAccessTime": "2007-07-13T01:13:17+02:00",
+        "LastWriteTime": "2007-07-13T01:13:17+02:00"
+      }
+    ],
+    "FileSize": 3244,
+    "HasSound": false,
+    "Height": 79,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "166965ECA005E289C1F1F6F1074C3827",
+    "MimeType": "image/gif",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "D1CD214638571713BF5DFAC6BC33CE0FF551CE21",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 70,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\9bd624d6-4e11-4665-8445-cf70a0ade259.gif",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\4b78fa48-a4c7-42a7-ae45-d42021c4c747.gif",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": "suBscrE\n"
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": "SuBSCRIRE\n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [
+      {
+        "DatabaseName": "Local GID: test1",
+        "Category": {
+          "Name": "Files of Interest",
+          "Identifier": 4
+        }
+      },
+      {
+        "DatabaseName": "Local GID: test2",
+        "Category": {
+          "Name": "Files of Interest",
+          "Identifier": 4
+        }
+      }
+    ],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "LEAD Technologies Inc. V1.01"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Monet.jpg",
+        "CreationTime": "2007-07-08T00:52:07+02:00",
+        "LastAccessTime": "2007-07-08T00:52:07+02:00",
+        "LastWriteTime": "2006-11-02T13:34:12+01:00"
+      }
+    ],
+    "FileSize": 2209,
+    "HasSound": false,
+    "Height": 128,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "9FCD9AC9E8ADAF7AB32B464CF13E506B",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 7,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "PwsHWKIXE5om1RvMQVF1PRtBYBkyHg40Sj9HHFpOKaCHXDmYh0Z5PwupMkUHaxBQXUi5ABPWjRLGGYIfUFxAMRtffgoUX8EJIZ+LKhWtnQhTKYsJI0wmNl4bMyM4PGsODGQRox9MKFsYTyAiKkhIGlciVCdbEzNRHRsBXzsXDT4kMA4sLhUiOxlXG24NQwyf",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "EC10F032BB10570FEED6F0C71C6C26E895B0F60C",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [
+      "#Child Exploitation",
+      "#Drugs"
+    ],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 128,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\6829c646-f183-4dc4-8335-a84671ed1fb6.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\a5090d3f-a083-4acb-9cd1-8ad8293833bd.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "grid_(cm).wmf",
+        "CreationTime": "2007-07-08T00:52:07+02:00",
+        "LastAccessTime": "2007-07-08T00:52:07+02:00",
+        "LastWriteTime": "2006-11-02T13:34:12+01:00"
+      }
+    ],
+    "FileSize": 2920,
+    "HasSound": false,
+    "Height": 94,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "88AACD8641388205C923F5EF7C5589B4",
+    "MimeType": "image/wmf",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "VzZXNklxYz48M2dAQT9mQGtVYDw1Tlo4Yz5IcFJ/Un9EOlaFS0hVhHlgT3s8WUt0Z0E8MlaGRDlHPEc7T0xHO35lQjdAXT81Z0FCQFaFS0lIPE5MTkxOS31lSUc/XERCYTtqVU97eWBBN35lSUZ8ZHZddV05Vm1XWjg1TUt1PFk+NT9cRUI/XG5XOVY3UTZR",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "25BDF111D7C4DFA1B3B2F4CD674260239AFEE3D8",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [
+      "#Terrorist Material"
+    ],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 94,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\c8397884-c818-4808-b182-8c54ca9991ca.wmf",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\336ffe12-d529-4b8d-ac09-1b7ad86d2beb.wmf",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": false,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "grid_(inch).wmf",
+        "CreationTime": "2007-07-08T00:52:07+02:00",
+        "LastAccessTime": "2007-07-08T00:52:07+02:00",
+        "LastWriteTime": "2006-11-02T13:34:10+01:00"
+      }
+    ],
+    "FileSize": 7498,
+    "HasSound": false,
+    "Height": 228,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "E0B619A630A40E926AFEB00BD3885FD9",
+    "MimeType": "image/wmf",
+    "NudityLevel": 1,
+    "OffenderIdentified": false,
+    "PhotoDnaBase64": "ax5dGTWBax0MCmscJAtrHIBoZhwCOVwYeyM+kj2UR6YQDUamKw9GppN4RJ8FQj2QfCMqND+WMDsOCzI9KgwzPpZ6LzoBRCs0fSMtJD+XMyoNCzUqKgw2Kpd7NCoBRC0jdiGYRDyPrk4OC7BOKQywTpB2qUsDQZlEZx0bYDR9HmwLCR9wIwofcH5nHmsBORpg",
+    "Representative": false,
+    "Series": [
+      "ttest"
+    ],
+    "Sha1Hex": "642065B382B58804E8A873F9C563E295E4F64A21",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": false,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 240,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\3280c80b-ec20-45b9-a018-62210cc1af39.wmf",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\d8ebe44e-adf6-4d10-9a19-292502062034.wmf",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": false,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Graph.emf",
+        "CreationTime": "2007-07-08T00:52:07+02:00",
+        "LastAccessTime": "2007-07-08T00:52:07+02:00",
+        "LastWriteTime": "2006-11-02T13:34:11+01:00"
+      }
+    ],
+    "FileSize": 116724,
+    "HasSound": false,
+    "Height": 777,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "387CA9DAE4545D68212A1D6BB95E39C1",
+    "MimeType": "image/emf",
+    "NudityLevel": 1,
+    "OffenderIdentified": false,
+    "PhotoDnaBase64": "F0RRaFoTbnI7HHV9TiNpdkYEZm4sKlpbGVV0RW4aflxDHYxiViWOW00LiF4vFmxSGGhHXHEhVXRMH1Z8XSFTfj4TS286GUNYGmNLcnopV3w3KVCHYh1WhEIMWYY/EkluFGOPYHIjmGM7HqRkYR+iZUwMpGYtFIFHElgsRWgeMkkyHS9QURwwVUQGOFc4IC1O",
+    "Representative": false,
+    "Series": [
+      "ttest"
+    ],
+    "Sha1Hex": "65B1613AF5B387FADD4A2D67BDD1E60917E08640",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": false,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 633,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\66cb91ce-b231-40bd-9585-df1ffb29f859.emf",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\41d4e92b-3a4e-4971-b85f-6dffc4e634ed.emf",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "File written by Adobe Photoshop? 4.0"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Notebook.jpg",
+        "CreationTime": "2007-07-08T00:52:08+02:00",
+        "LastAccessTime": "2007-07-08T00:52:08+02:00",
+        "LastWriteTime": "2006-11-02T13:34:10+01:00"
+      }
+    ],
+    "FileSize": 2950,
+    "HasSound": false,
+    "Height": 24,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "F05DB36EA7F31D5801DF60CFD75F8EF9",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "14E41E9D08E11DE9358A66B37951BE7E3652BEBD",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1440,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\6d046724-8fd1-4af0-a4ce-7dd3fe1c6907.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\79803474-76d1-482d-9c5c-99396637826d.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Genko_2.emf",
+        "CreationTime": "2007-07-08T00:52:06+02:00",
+        "LastAccessTime": "2007-07-08T00:52:06+02:00",
+        "LastWriteTime": "2006-11-02T13:34:10+01:00"
+      }
+    ],
+    "FileSize": 10340,
+    "HasSound": false,
+    "Height": 539,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "27B57823B654F47E35997F8A25EB9755",
+    "MimeType": "image/emf",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "Ey3/bDId/3YmJP98Iij/bUww/3mnQf/PH0otPkg0Ijc9NCdGPkEhOkBRHDGROCNEHUcpKEcxKyc8OzArQUAlI0NQHx6POiIgIUonJUcwKSI8OiwnR0IlG0NWJxyPOiUhIkciIUYzISk9OCcrQkElK0VUJC6TRCAjFz5yFDkqghI3M4QaPTmCEzpLfBSCL2wR",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "3ADABD4A55DF65241A5C5754ED5F0C915C05447B",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 857,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\57a092d4-5159-4f36-a6da-0ae0a4f19a80.emf",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\5d5bc55f-0956-46b4-9448-dee6811896f3.emf",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Peacock.jpg",
+        "CreationTime": "2007-07-08T00:52:08+02:00",
+        "LastAccessTime": "2007-07-08T00:52:08+02:00",
+        "LastWriteTime": "2006-11-02T13:32:30+01:00"
+      },
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Pretty_Peacock.jpg",
+        "CreationTime": "2007-07-08T00:52:08+02:00",
+        "LastAccessTime": "2007-07-08T00:52:08+02:00",
+        "LastWriteTime": "2006-11-02T13:34:12+01:00"
+      }
+    ],
+    "FileSize": 5115,
+    "HasSound": false,
+    "Height": 196,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "2C8E4B5C21697CC270C2024064C4EB93",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "RwQHRxYXFDYZFi5UGDUwLyUxaRwXMVoyVBYKRSGIFWkxSwbMgSQMrjNqHcYyORS2Qi45QUFqNEsxkXUjmlVcU3+bZ4B0WZU5IVVhCCkvMhguV2kldmdvLJB1niRhP3EaHTFYEg1yixJhZy5MXH1GMdFDOi01QkoPFRUVFAljFixRfzgOdYc1CvNvIR1OThM5",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "3A9B25C868CF0B2CE9503C802DA78F22F689FC6B",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 2,
+    "Width": 196,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\bbaa8ee0-2409-4785-9485-b1fa0932726a.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\f3b77969-333b-4361-b3ac-429927b3ae99.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "File written by Adobe Photoshop? 4.0"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Pine_Lumber.jpg",
+        "CreationTime": "2007-07-08T00:52:08+02:00",
+        "LastAccessTime": "2007-07-08T00:52:08+02:00",
+        "LastWriteTime": "2006-11-02T13:34:11+01:00"
+      }
+    ],
+    "FileSize": 3981,
+    "HasSound": false,
+    "Height": 120,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "13EE239821FBD6583551A20ACDA0AFA8",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 4,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "BQRKLicBPDYRFT01EwZGMwAEUjoEKU0tBQM5VRUGQGMQDDlqDgUxZwMIMWkBETNcBAZPexYFWJIZFnGqCAtdnAcHVJUCC1CEAw66JRED2SwIA/M1AwLzMAUH8i4GB9MqBCOGlzUKj6EMAYqSARSNoBIPk7ICE4GkAxU2fCYLOpMJCCSiAAoplQkJNJUDCzZ6",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "387875D8145F930004B927AF59A554B651E74961",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 120,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\e98e0163-5551-4101-aae1-aaea54c1b126.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\75d8ccbd-4064-4b5b-a0da-8ac74fe85053.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Genko_1.emf",
+        "CreationTime": "2007-07-08T00:52:06+02:00",
+        "LastAccessTime": "2007-07-08T00:52:06+02:00",
+        "LastWriteTime": "2006-11-02T13:34:10+01:00"
+      }
+    ],
+    "FileSize": 5524,
+    "HasSound": false,
+    "Height": 910,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "41C3EF78ABF678349D9F772FA9FE664B",
+    "MimeType": "image/emf",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "jwbJAwQH/wQJBv8EDAn/BBEN/wQDoLUD3g0ODAkODRMSCxIRFhIVEAIXDRMA2AcM2g8KCwkQEw8ZDBAOGRYNDAIZEw4AzwwI4AoQDAoNGhETDRYOGRMRCwIWFw8A3w0K2AwEDwsQBRoYDAQWFxQDEQIaBRsAzwQPoggFmwgKDsgQCQrNExAFzgMSDckAnwiP",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "E80F0A6B0121930EB2B51CCFECE855AB6540A73E",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 742,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\ef7b1543-ed52-447a-a84a-512d3d9839da.emf",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\6d000ee3-fbe6-4147-9556-39ab8e049b9b.emf",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "LEAD Technologies Inc. V1.01"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Psychedelic.jpg",
+        "CreationTime": "2007-07-08T00:52:08+02:00",
+        "LastAccessTime": "2007-07-08T00:52:08+02:00",
+        "LastWriteTime": "2006-11-02T13:34:10+01:00"
+      }
+    ],
+    "FileSize": 14049,
+    "HasSound": false,
+    "Height": 300,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "7C10CCEA112BB14DF41CC3043282EF7D",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 2,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "AHENAA5pEwXRDQI3TA0HEQC1SwA3YyIZAIcBFAp1BRnjEB4NbgYKBgG9CxpAihoTAKEAQE1MPSzcBJECMygWHgngBn6MQj8dF5EJP9kTbwxoDUcFBLIDbD+NH2yoBUEEO1YJFvMCGRUvJggJBPsMI3QzGA+NABQBIUwhC84FA1BGFwYcA9o7AWc3ExJ2AAEQ",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "E9267A787E15493A81DFACA06B22AC90B55B92EB",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1000,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\2884edef-1bf9-4aac-b8e7-ff2cda57a90e.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\0a04583d-657a-44a8-aa19-4822ff1ac328.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Roses.jpg",
+        "CreationTime": "2007-07-08T00:52:08+02:00",
+        "LastAccessTime": "2007-07-08T00:52:08+02:00",
+        "LastWriteTime": "2006-11-02T13:32:30+01:00"
+      }
+    ],
+    "FileSize": 1920,
+    "HasSound": false,
+    "Height": 62,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "A910A22193122C6A93048B4ABFABEBEE",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "2B8C1A8546D2DDC91A5BDCE7BBC17EE0AF60C07E",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 219,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\781a248e-f3c0-44b4-8da1-cb9cfc81e7de.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\0d512852-3452-4734-b1e3-ea9e6e71d98e.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": "2igeslel\n"
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": "PAR APA anal\n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "File written by Adobe Photoshop? 4.0"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Sand_Paper.jpg",
+        "CreationTime": "2007-07-08T00:52:08+02:00",
+        "LastAccessTime": "2007-07-08T00:52:08+02:00",
+        "LastWriteTime": "2006-11-02T13:34:12+01:00"
+      }
+    ],
+    "FileSize": 15776,
+    "HasSound": false,
+    "Height": 233,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "B80EF81D806B7B368EF56427B5A49DF5",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": true,
+    "PhotoDnaBase64": "KmFVPWo0Q3VRbIFeHllHJkUyQisRJikUKDQcTTovOjxcPjN2ZHdqYoVYU2MmcUA7FDMsFVQlM0lAQVszWF5RVz1NQEJFP04tMDM0OjQtVidhKlJPXW55P1tJkE1wanRlJ0tYL1EwSFRYWFJvVks8cG9VX3yLpZmMMyssYlM7VWE/YINIdkNhZn+NindpXlh1",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "071EAA2EB2DFC680B1AE47304F2E54DBC883EDE1",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": false,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 228,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\55d19058-5de6-4c80-b1a3-8271fa6b02e6.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\1999fa0a-4d26-4c89-88c8-3af7b8a5ceb2.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [
+      {
+        "Comment": "",
+        "BookmarkTypePath": "Origin of file/Open source",
+        "BookmarkTypeDescription": "",
+        "DateModified": "2022-11-03T10:54:33.5457856"
+      },
+      {
+        "Comment": "",
+        "BookmarkTypePath": "Origin of file/Surveillance",
+        "BookmarkTypeDescription": "",
+        "DateModified": "2022-11-03T10:54:40.5255703"
+      }
+    ],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "ShadesOfBlue.jpg",
+        "CreationTime": "2007-07-08T00:52:09+02:00",
+        "LastAccessTime": "2007-07-08T00:52:09+02:00",
+        "LastWriteTime": "2006-11-02T13:32:29+01:00"
+      }
+    ],
+    "FileSize": 4734,
+    "HasSound": false,
+    "Height": 300,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "2E8192A8026A9ECD3F67241CA7A074BA",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": false,
+    "PhotoDnaBase64": "8AAAAZgBAAEACQABAJgAAQCOAAAAlgAA/wABQq8JAWcGFAB9Ap8AaQGoAEEAuQBn6gACHJwOATQDIQA2AWMALAC6ABsA6wAu5AAAE5cNBikHIAIUAmMAFQC7ACYA7AAOwgACHYwGA0UvDQgZAqYEHAKuAUoAwAEWowAAAHUAAAEvAwABAKQBAACUAAEAmgAA",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "48F93EEAC35D6C7022D0CFE9EEF85FA7F1BFE9F1",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": true,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 500,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\759dcee0-1935-4cb8-8447-0c76984bb834.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\af4b454d-dd4c-4f4a-933b-1670145235f0.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": "asd"
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Dotted_Lines.emf",
+        "CreationTime": "2007-07-08T00:52:06+02:00",
+        "LastAccessTime": "2007-07-08T00:52:06+02:00",
+        "LastWriteTime": "2006-11-02T13:34:11+01:00"
+      }
+    ],
+    "FileSize": 3792,
+    "HasSound": false,
+    "Height": 909,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "3B2C61D385D9B692E2F860BFC6AEDBF3",
+    "MimeType": "image/emf",
+    "NudityLevel": 1,
+    "OffenderIdentified": false,
+    "PhotoDnaBase64": "4gJtLAoEkUgBAJBGAgCSSwAIkksAz2Av7BFaSQYCKhIAACoSAAAqEgAFKhIA7h0M+BxCWQcEBjQAAAY0AAAGNAAFBjQA6QQi2xpcTAcEOCUAADglAAA4JQAEOCUAyyIY/xZcQwgDNBQAADQVAAA0FQAGNBQA/yAQxg8WrAYDALkBAQC5AAEAugEGALkAwgB4",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "FD180202E835983B50DF99435B5B95A475625B4D",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": false,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 742,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\c02c50c6-2e0e-4136-b5f0-26feb6b0cb69.emf",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\15cf51ec-dd63-41a5-bcbe-06ac1f06420a.emf",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "Files of Interest",
+      "Identifier": 4
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": false,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "AppleMark\r\rAppleMark"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "Mantooth32",
+        "DisplayDirectory": "Mantooth32\\MANTOOTH (NTFS, 2)\\Users\\Wes Mantooth\\AppData\\Local\\Microsoft\\Windows Mail\\Stationery",
+        "DisplayFilename": "Small_News.jpg",
+        "CreationTime": "2007-07-08T00:52:09+02:00",
+        "LastAccessTime": "2007-07-08T00:52:09+02:00",
+        "LastWriteTime": "2006-11-02T13:34:11+01:00"
+      }
+    ],
+    "FileSize": 1990,
+    "HasSound": false,
+    "Height": 96,
+    "InitialCategory": {
+      "Name": "Uncategorized",
+      "Identifier": 1
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "45FDFB8895B2E7885C6FE534393187F3",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": true,
+    "PhotoDnaBase64": "Rz8bTjU/Kk9LJiJdI3udSjMnjCMePYofOkE+PjdUOEtPSDtzPT0zakU/QFchYiRTVD08OC5uVTpTR7pwPEOiaT0vr3cgU5NaPkU6OUpLWktyO1lSQWRcR0pUWlpBZDQ7JlIOVUtMLZJpRyefUWElnkVZRpxWVSlrKGlPHTg9dlQ4OaNWTzKOUCs+hl0pLn1V",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "500DD7CE7FA7DFA3E9D9CAA26DF6699811DCD7B1",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": true,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 96,
+    "FilepathOriginal": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\01b772fb-8769-49cc-8ce6-d9dcbdb7d95c.jpg",
+    "FilepathConverted": "C:\\Users\\con-web\\AppData\\Local\\Temp\\GriffeyeAnalyze\\2022-11-03\\e33fff8e-15f1-4546-9448-341b79d4a3f5.jpg",
+    "OutputDirectory": "C:\\Griffeye\\Cases\\MantoothWasher\\Plugin\\InputPrinter",
+    "CustomPropertyValues": [
+      {
+        "Key": "6003ef08-762d-4af5-9cb0-7d0315df478c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      },
+      {
+        "Key": "625cf8a6-a648-44f9-aa3a-42624a77154c",
+        "Value": [
+          {
+            "Key": 0,
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  }
+]
