@@ -8,6 +8,8 @@
         <Title>Adipp - Analyze DI Pro Plugin</Title>
         <Authors>Constantin Weber</Authors>
         <PackageLicenseUrl>https://rem.mit-license.org/</PackageLicenseUrl>
+        <PackageLicense>https://rem.mit-license.org/</PackageLicense>
+        <PackageProjectUrl>https://github.com/con-web/AdippNet</PackageProjectUrl>
     </PropertyGroup>
 
 </Project>
