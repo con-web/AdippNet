@@ -1,54 +1,60 @@
-﻿using System.Text;
-using System.Text.Json;
+﻿using System.Text.Json;
 using AdippNet.Models;
-
 namespace AdippNet;
+
 
 public class Adipp
 {
-    private readonly List<BinaryUniqueFile>? _binaryUniqueFiles;
+    private readonly string? _inputString;
+    private List<MediaFile>? _mediaFiles;
+    private List<Action<List<MediaFile>>> BatchActions { get; } = new();
+    private List<Action<MediaFile>> SingleActions { get; } = new();
+    
 
     public Adipp()
     {
-        Console.InputEncoding = Encoding.UTF8;
-        var inputString = Console.ReadLine();
-        _binaryUniqueFiles =
-            JsonSerializer.Deserialize<List<BinaryUniqueFile>>(inputString ?? throw new InvalidOperationException());
+        _inputString = Console.ReadLine();
     }
+    
+    public Adipp(string fileName)
+    {
+        var inputFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
+        _inputString = File.ReadAllText(inputFile);
+    }
+    
 
-    private List<Action<List<BinaryUniqueFile>>> BatchActions { get; } = new();
-    private List<Action<BinaryUniqueFile>> SingleActions { get; } = new();
-
-    public void AddAction(Action<List<BinaryUniqueFile>> action)
+    public void AddAction(Action<List<MediaFile>> action)
     {
         BatchActions.Add(action);
     }
 
-    public void AddAction(Action<BinaryUniqueFile> action)
+    public void AddAction(Action<MediaFile> action)
     {
         SingleActions.Add(action);
     }
 
     public void Run()
     {
-        foreach (var action in BatchActions) action(_binaryUniqueFiles!);
-
-        foreach (var action in SingleActions)
-        {
-            foreach (var file in _binaryUniqueFiles!)
-            {
-                action(file);
-            }
-        }
-
+        _mediaFiles = JsonSerializer.Deserialize<List<MediaFile>>(_inputString ?? throw new InvalidOperationException());
         var output = new Output();
+        foreach (var action in BatchActions) action(_mediaFiles!);
 
-        foreach (var file in _binaryUniqueFiles!)
+        foreach (var mediaFile in _mediaFiles!)
         {
-            output.Bookmarks.AddRange(file.NewBookmarks);
-            output.CustomProperties.AddRange(file.NewCustomProperties);
+            foreach (var action in SingleActions) action(mediaFile);
+            output.Bookmarks.AddRange(mediaFile.NewBookmarks);
+            output.CustomProperties.AddRange(mediaFile.NewCustomProperties);
+            
         }
 
-        Console.WriteLine(JsonSerializer.Serialize(output));
+        var outputString = JsonSerializer.Serialize(output);
+        Console.WriteLine(outputString);
     }
+
+    public void DumpInput(string fileName)
+    {
+        var filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
+        File.WriteAllText(filePath, _inputString);
+    }
+    
 }

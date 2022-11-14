@@ -1,6 +1,8 @@
-﻿namespace AdippNet.Models;
+﻿using AdippNet.Models;
 
-public class BinaryUniqueFile
+namespace AdippNet;
+
+public class MediaFile
 {
     public List<AppData> AppData { get; set; } = new();
     public List<InputBookmark> Bookmarks { get; set; } = new();
