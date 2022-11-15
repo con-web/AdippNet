@@ -1,0 +1,68 @@
+variables:
+  PROJECT_NAME: 'AdippNet'
+  
+  EXE_DIR: '${PROJECT_NAME}\bin\x64\Release'
+  TESTS_DIR: 'Tests\bin\Release\net6.0'
+  
+  NUGET_PATH: 'C:/Nuget/nuget.exe'
+  MSBUILD_PATH: 'C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe'
+  NUNIT_PATH: 'C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe'
+  7ZIP_PATH: 'C:\Program Files\7-Zip\7z.exe'
+  
+  RELEASE_DIR: 'C:\Apache24\htdocs\software\${PROJECT_NAME}'
+  RELEASE_PKG_PATH: '${RELEASE_DIR}\${PROJECT_NAME}_x64_${CI_COMMIT_TAG}.appkg'
+
+stages:
+  - build
+  - test
+  - release
+
+build_job:
+  stage: build
+  script:
+    - '& "$env:NUGET_PATH" restore ./${PROJECT_NAME}.sln'
+    - '& "$env:MSBUILD_PATH" /p:Configuration=Release'
+  only:
+    - master
+    - test
+
+  cache:
+    key: binaries-cache
+    paths:
+      - ${EXE_DIR}
+      - ${TESTS_DIR}
+
+test_job:
+  stage: test
+  script:
+    - '& cd .\$env:TESTS_DIR'
+    - '& "$env:NUNIT_PATH" "Tests.dll"'
+  only:
+    - master
+    - test
+
+  cache:
+    key: binaries-cache
+    paths:
+      - ${EXE_DIR}
+      - ${TESTS_DIR}
+
+
+# release_job:
+#   stage: release
+#   cache:
+#     key: binaries-cache
+#     paths:
+#       - ${EXE_DIR}
+#   script:
+#     - '& md -Force $RELEASE_DIR'
+#     - '& New-Item -ItemType Directory -Force -Path tmp\$PROJECT_NAME'
+#     - '& Copy-Item $EXE_DIR\* tmp\$PROJECT_NAME -Recurse'
+#     - '& Copy-Item settings.json ./tmp'
+#     - '& cd ./tmp'
+#     - '& dir'
+#     - '& "$env:7ZIP_PATH" a $RELEASE_PKG_PATH "./Tesseract4Analyze"'
+#     - '& "$env:7ZIP_PATH" a $RELEASE_PKG_PATH "settings.json"'
+  
+#   only:
+#     - tags
