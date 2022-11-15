@@ -1,28 +1,25 @@
-﻿using System.Text;
-
-namespace AdippNet;
+﻿namespace AdippNet;
 
 public static class IO
 {
-    public static string? ReadFromConsole()
+    
+    public static Stream GetStdinStream()
     {
-        Console.InputEncoding = Encoding.UTF8;
-        return Console.ReadLine();
+        return Console.OpenStandardInput();
     }
 
-    public static void WriteToConsole(string text)
+    public static Stream GetStdoutStream()
     {
-        Console.OutputEncoding = Encoding.UTF8;
-        Console.WriteLine(text);
+        return Console.OpenStandardOutput();
     }
 
-    public static string ReadFromFile(string path)
+    public static Stream GetReadFileStream(string path)
     {
-        return File.ReadAllText(path, Encoding.UTF8);
+        return File.OpenRead(path);
     }
 
-    public static void WriteToFile(string path, string text)
+    public static Stream GetWriteFileStream(string path)
     {
-        File.WriteAllText(path, text, Encoding.UTF8);
+        return File.OpenWrite(path);
     }
 }
