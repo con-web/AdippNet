@@ -1,6 +1,4 @@
-﻿using AdippNet.Models;
-
-namespace AdippNet;
+﻿namespace AdippNet.Models;
 
 public class MediaFile
 {
@@ -56,5 +54,14 @@ public class MediaFile
     {
         newCustomProperty.Sha1 = Sha1Hex;
         NewCustomProperties.Add(newCustomProperty);
+    }
+
+    public void AddBookmarks(List<Bookmark> newBookmarks)
+    {
+        foreach (var bookmark in newBookmarks)
+        {
+            bookmark.Sha1 = Sha1Hex;
+            NewBookmarks.Add(bookmark);
+        }
     }
 }

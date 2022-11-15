@@ -73,12 +73,12 @@ public class Tests
         // Arrange
         void AddBookmark(MediaFile file)
         {
-            file.AddBookmark(new Bookmark {Name = "so und so!"});
+            file.AddBookmark(new Bookmark {Name = "testName"});
         }
 
         void AddCustomProperty(MediaFile file)
         {
-            file.AddCustomProperty(new CustomProperty(){Id = 0, Value = "ich bin ein Wert"});
+            file.AddCustomProperty(new CustomProperty(){Id = 0, Value = "testValue"});
         }
         
         var cwd = AppDomain.CurrentDomain.BaseDirectory;
@@ -93,6 +93,32 @@ public class Tests
         // Assert
         
         Assert.Pass();
+    }
+
+    [Test]
+    public void TestWatchList()
+    {
+        // Arrange
+        var watchlist = new Watchlist("../../../watchlist.json");
+        
+        void WatchlistSearch(MediaFile file)
+        {
+            foreach (var results in file.Files.Select(metadata => 
+                         watchlist.Search(metadata.DisplayDirectory, "test")))
+            {
+                file.AddBookmarks(results);
+            }
+        }
+        
+        
+        var cwd = AppDomain.CurrentDomain.BaseDirectory;
+        var plugin = new Adipp(Path.Combine(cwd, "../../../test_input.json"));
+        
+        // Act
+        plugin.AddAction(WatchlistSearch);
+        plugin.Run();
+        
+        // Assert
     }
 
 }
