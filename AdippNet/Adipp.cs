@@ -4,7 +4,7 @@ namespace AdippNet;
 
 public class Adipp
 {
-    private List<MediaFile>? _mediaFiles;
+    private List<MediaFile> _mediaFiles;
     private List<Action<List<MediaFile>>> BatchActions { get; } = new();
     private List<Action<MediaFile>> SingleActions { get; } = new();
     

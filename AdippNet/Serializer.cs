@@ -9,7 +9,7 @@ public static class Serializer
         JsonSerializer.Serialize(stream, obj); 
     }
 
-    public static T? DeserializeFromStream<T>(Stream stream)
+    public static T DeserializeFromStream<T>(Stream stream)
     {
         return JsonSerializer.Deserialize<T>(stream);
     }
