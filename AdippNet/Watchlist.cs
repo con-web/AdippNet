@@ -20,10 +20,10 @@ public class Watchlist
         foreach (var category in _watchlist)
         {
             searchResult.AddRange(category.SearchTerms.Where(searchTerm => Regex
-                .IsMatch(searchText, searchTerm))
+                .IsMatch(searchText, searchTerm, RegexOptions.IgnoreCase))
                 .Select(searchTerm => new Bookmark
                 {
-                    Path = string.Join("/", "watchlistName", category.Name), Name = searchTerm
+                    Path = string.Join("/", watchlistName, category.Name), Name = searchTerm
                 }));
         }
 
