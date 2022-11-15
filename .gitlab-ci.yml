@@ -1,68 +1,62 @@
+image: mcr.microsoft.com/dotnet/sdk:latest
+
 variables:
+  # 1) Name of directory where restore and build objects are stored.
+  OBJECTS_DIRECTORY: 'obj'
+  # 2) Name of directory used for keeping restored dependencies.
+  NUGET_PACKAGES_DIRECTORY: '.nuget'
+  # 3) A relative path to the source code from project repository root.
+  # NOTE: Please edit this path so it matches the structure of your project!
+  SOURCE_CODE_PATH: '*/'
+  CI_COMMIT_TAG: ${CI_COMMIT_TAG}
   PROJECT_NAME: 'AdippNet'
-  
-  EXE_DIR: '${PROJECT_NAME}\bin\x64\Release'
-  TESTS_DIR: 'Tests\bin\Release\net6.0'
-  
-  NUGET_PATH: 'C:/Nuget/nuget.exe'
-  MSBUILD_PATH: 'C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe'
-  NUNIT_PATH: 'C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe'
-  7ZIP_PATH: 'C:\Program Files\7-Zip\7z.exe'
-  
-  RELEASE_DIR: 'C:\Apache24\htdocs\software\${PROJECT_NAME}'
-  RELEASE_PKG_PATH: '${RELEASE_DIR}\${PROJECT_NAME}_x64_${CI_COMMIT_TAG}.appkg'
 
-stages:
-  - build
-  - test
-  - release
 
-build_job:
+cache:
+  # Per-stage and per-branch caching.
+  key: "$CI_JOB_STAGE-$CI_COMMIT_REF_SLUG"
+  paths:
+    # Specify three paths that should be cached:
+    #
+    # 1) Main JSON file holding information about package dependency tree, packages versions,
+    # frameworks etc. It also holds information where to the dependencies were restored.
+    - '$SOURCE_CODE_PATH$OBJECTS_DIRECTORY/project.assets.json'
+    # 2) Other NuGet and MSBuild related files. Also needed.
+    - '$SOURCE_CODE_PATH$OBJECTS_DIRECTORY/*.csproj.nuget.*'
+    # 3) Path to the directory where restored dependencies are kept.
+    - '$NUGET_PACKAGES_DIRECTORY'
+
+
+  # 'pull-push' policy is the default cache policy, you do not have to specify it explicitly.
+  policy: pull-push
+
+before_script:
+  - 'dotnet restore --packages $NUGET_PACKAGES_DIRECTORY'
+
+build:
   stage: build
-  script:
-    - '& "$env:NUGET_PATH" restore ./${PROJECT_NAME}.sln'
-    - '& "$env:MSBUILD_PATH" /p:Configuration=Release'
   only:
     - master
     - test
+  script:
+    - 'dotnet build --no-restore'
 
-  cache:
-    key: binaries-cache
-    paths:
-      - ${EXE_DIR}
-      - ${TESTS_DIR}
-
-test_job:
+tests:
   stage: test
-  script:
-    - '& cd .\$env:TESTS_DIR'
-    - '& "$env:NUNIT_PATH" "Tests.dll"'
   only:
     - master
     - test
+  script:
+    - 'dotnet test --no-restore'
 
-  cache:
-    key: binaries-cache
-    paths:
-      - ${EXE_DIR}
-      - ${TESTS_DIR}
+# release:
+deploy:
+  stage: deploy
+  only:
+    - tags
 
-
-# release_job:
-#   stage: release
-#   cache:
-#     key: binaries-cache
-#     paths:
-#       - ${EXE_DIR}
-#   script:
-#     - '& md -Force $RELEASE_DIR'
-#     - '& New-Item -ItemType Directory -Force -Path tmp\$PROJECT_NAME'
-#     - '& Copy-Item $EXE_DIR\* tmp\$PROJECT_NAME -Recurse'
-#     - '& Copy-Item settings.json ./tmp'
-#     - '& cd ./tmp'
-#     - '& dir'
-#     - '& "$env:7ZIP_PATH" a $RELEASE_PKG_PATH "./Tesseract4Analyze"'
-#     - '& "$env:7ZIP_PATH" a $RELEASE_PKG_PATH "settings.json"'
-  
-#   only:
-#     - tags
+  script:
+    - dotnet publish -c Release $PROJECT_NAME/$PROJECT_NAME.csproj
+    - cd $PROJECT_NAME/bin/Release
+    - echo ${NUGET_API_KEY}
+    - nuget push "$PROJECT_NAME.$CI_COMMIT_TAG.nupkg" "${NUGET_API_KEY}" -Source https://api.nuget.org/v3/index.json  

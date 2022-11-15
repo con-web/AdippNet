@@ -10,7 +10,9 @@
         <PackageLicenseUrl>https://rem.mit-license.org/</PackageLicenseUrl>
         <PackageLicense>https://rem.mit-license.org/</PackageLicense>
         <PackageProjectUrl>https://github.com/con-web/AdippNet</PackageProjectUrl>
-        <PackageVersion>1.0.3</PackageVersion>
+        <PackageVersion>1.0.5</PackageVersion>
+        <AssemblyVersion>1.0.5</AssemblyVersion>
+        <FileVersion>1.0.5</FileVersion>
     </PropertyGroup>
 
 </Project>
