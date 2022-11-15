@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System.Text;
+using System.Text.Json;
 using AdippNet.Models;
 namespace AdippNet;
 
@@ -13,13 +14,12 @@ public class Adipp
 
     public Adipp()
     {
-        _inputString = Console.ReadLine();
+        _inputString = IO.ReadFromConsole();
     }
     
     public Adipp(string fileName)
     {
-        var inputFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
-        _inputString = File.ReadAllText(inputFile);
+        _inputString = IO.ReadFromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName));
     }
     
 
@@ -48,13 +48,14 @@ public class Adipp
         }
 
         var outputString = JsonSerializer.Serialize(output);
-        Console.WriteLine(outputString);
+        
+        IO.WriteToConsole(outputString);
+        
     }
 
     public void DumpInput(string fileName)
     {
-        var filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
-        File.WriteAllText(filePath, _inputString);
+        IO.WriteToFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName), _inputString!);
     }
     
 }

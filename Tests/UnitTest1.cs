@@ -88,6 +88,7 @@ public class Tests
         plugin.AddAction(AddBookmark);
         plugin.AddAction(AddCustomProperty);
         plugin.Run();
+        plugin.DumpInput("test_dump.json");
         
         // Assert
         
